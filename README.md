@@ -1,6 +1,6 @@
 # Préparation de données pour un organisme de santé publique
 
-![Capture d’écran](Capture d’écran 2023-09-17 à 16.12.36.png)
+![Capture d’écran](Capture%20d’écran%202023-09-17%20à%2016.12.36.png)
 
 ## Mission
 
